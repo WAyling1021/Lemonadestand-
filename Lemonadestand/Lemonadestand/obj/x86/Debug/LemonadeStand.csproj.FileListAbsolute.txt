@@ -1,0 +1,2 @@
+/Users/williamayling/Desktop/Lemonadestand/Lemonadestand-/Lemonadestand/Lemonadestand/obj/x86/Debug/LemonadeStand.csprojAssemblyReference.cache
+/Users/williamayling/Desktop/Lemonadestand/Lemonadestand-/Lemonadestand/Lemonadestand/obj/x86/Debug/LemonadeStand.csproj.CoreCompileInputs.cache

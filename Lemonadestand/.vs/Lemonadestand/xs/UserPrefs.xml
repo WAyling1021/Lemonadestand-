@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{616F2B0C-4869-4CFD-A5EF-0C6421D72062}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lemonadestand/Weather.cs">
+    <Files>
+      <File FileName="Lemonadestand/Program.cs" Line="1" Column="1" />
+      <File FileName="Lemonadestand/Game.cs" Line="15" Column="26" />
+      <File FileName="Lemonadestand/Player.cs" Line="17" Column="39" />
+      <File FileName="Lemonadestand/Day.cs" Line="33" Column="1" />
+      <File FileName="Lemonadestand/Weather.cs" Line="25" Column="35" />
+      <File FileName="Lemonadestand/Store.cs" Line="70" Column="1" />
+      <File FileName="Lemonadestand/Inventory.cs" Line="10" Column="30" />
+      <File FileName="Lemonadestand/Customer.cs" Line="18" Column="1" />
+      <File FileName="Lemonadestand/UserInterface.cs" Line="10" Column="23" />
+      <File FileName="LemonadeStandTests/UnitTest1.cs" Line="14" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LemonadeStand" expanded="True">
+            <Node name="LemonadeStand" expanded="True">
+              <Node name="Weather.cs" selected="True" />
+            </Node>
+            <Node name="LemonadeStandTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.LemonadeStand PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LemonadeStandTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
